@@ -1,0 +1,89 @@
+[33mcommit d44f10f00de713d1964a9c761af82a7f01070e5d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Thu Oct 5 17:07:38 2017 +0800
+
+    updated home controller
+
+[33mcommit 1a24ffe8c0d01485b0976b4a72ba8e51076d6f97[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Thu Oct 5 16:10:55 2017 +0800
+
+    updated the Admin_lte UI to add new product
+
+[33mcommit 8c71dac699d1f939dac77b623c361b3c31e0f5ec[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Tue Oct 3 15:11:37 2017 +0800
+
+    added dependencies for Admin_lte
+
+[33mcommit 41043bcd632131b5103d8f0c83ceacd917e1e42c[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Tue Oct 3 15:05:49 2017 +0800
+
+    added Admin lte theme for dashboard use
+
+[33mcommit 839026024de3f898e32484f252c8cd81287c13c8[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sun Oct 1 11:02:03 2017 +0800
+
+    adding Product(views, controller, model)
+
+[33mcommit 704c76d2f4f065f526130891347889afe8f9086f[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sun Oct 1 10:48:48 2017 +0800
+
+    updated readme
+
+[33mcommit 9a8db1561ca15df6bfaf7a63778a1fcdb93ae9e0[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 12:16:49 2017 +0800
+
+    updated README.md
+
+[33mcommit 6a2974d725a6ac566328a758546f0c7cb5e2e27b[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 12:06:10 2017 +0800
+
+    adding the updated database sept 30 2017
+
+[33mcommit 7a54de8eaf9bfaf06eab35f2de6aaa832b382891[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 11:58:56 2017 +0800
+
+    adding the application folder of CI
+
+[33mcommit bd8d0e8d7e8120c91dbc364db0bd1fe9fcfd0759[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 11:57:01 2017 +0800
+
+    adding the system core files of codeigniter
+
+[33mcommit 009d1c13138da88f34f8a5578a19c4a81f1558de[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 11:53:09 2017 +0800
+
+    adding outside rootfiles
+
+[33mcommit 106759b9b4b4b5a5dc64d882df06daedcd4da194[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 10:27:41 2017 +0800
+
+    updated readme
+
+[33mcommit af75d297f4fa412f6062f4c84cf940efc41135b3[m
+Author: marlontamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 10:19:54 2017 +0800
+
+    initial commit
+
+[33mcommit e8344fc9e408ac8ab67924ee8dd6da889c82765f[m
+Author: Marlon Tamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 09:48:09 2017 +0800
+
+    Update README.md
+
+[33mcommit e012b34e102affea264e56132bf0a61fe7260dc9[m
+Author: Marlon Tamo <marlontamo@gmail.com>
+Date:   Sat Sep 30 09:43:46 2017 +0800
+
+    Initial commit
