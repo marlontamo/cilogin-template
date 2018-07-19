@@ -1,1 +1,1 @@
-my simple login- and register system using Admin_lte templat 
+my simple login- register system using Admin_lte template
